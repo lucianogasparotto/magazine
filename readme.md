@@ -1,0 +1,1 @@
+A small exercise from freeCodeCamp of a magazine page. I used and learnd css grid and css variables. 
